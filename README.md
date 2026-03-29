@@ -1,1 +1,1 @@
-# Microservices_Azure
+# microservices-azure-lab
